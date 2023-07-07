@@ -108,7 +108,7 @@ v1.0 ⋮ 2023-07-07
 + Improved builder
 + Code optimization
 + Fixed missing emojis
-+ Changed CStealer icon
++ Changed MStealer icon
 + Added new Anti-VM for less AV detections
 + Added Exodus Web3 Wallet Extension support
 + Active Developer badge support
