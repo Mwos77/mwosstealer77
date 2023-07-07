@@ -35,7 +35,7 @@ This software was made for personal **education** and **sandbox testing** purpos
 
 
 ## <a id="content"></a>🌐 〢 Content
-- [🌌・Discord]([https://t.me/](https://discord.gg/umPZmcWxv2)
+- [🌌・Discord]((https://discord.gg/umPZmcWxv2)]
 - [🎉・Setting up](#setup)
 - [🔰・Features](#features)
 - [👁️・Preview](#preview)
