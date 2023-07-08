@@ -55,7 +55,7 @@ def check_windows():
         ctypes.windll.user32.EnumWindows(winEnumHandler, None)
         time.sleep(0.5)
 def check_ip():
-    blacklisted = {,None}    
+    blacklisted = {}    
     while True:
         try:
             ip = urllib.request.urlopen('https://checkip.amazonaws.com').read().decode().strip()
