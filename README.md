@@ -22,7 +22,7 @@ MStealer
 
 
 <h1 align="center">
- discord.gg/umPZmcWxv2<br>
+ https://discord.gg/kEjGzt3N<br>
 🔱 Join Discord for support and contact 🔱
 </h1>
 
