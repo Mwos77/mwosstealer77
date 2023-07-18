@@ -22,7 +22,7 @@ MStealer
 
 
 <h1 align="center">
- https://discord.gg/kEjGzt3N<br>
+ https://discord.gg/GVkkcKBr8j<br>
 🔱 Join Discord for support and contact 🔱
 </h1>
 
@@ -35,7 +35,7 @@ This software was made for personal **education** and **sandbox testing** purpos
 
 
 ## <a id="content"></a>🌐 〢 Content
-- [🌌・Discord](https://discord.gg/umPZmcWxv2)]
+- [🌌・Discord]([https://discord.gg/GVkkcKBr8j))]
 - [🎉・Setting up](#setup)
 - [🔰・Features](#features)
 - [👁️・Preview](#preview)
